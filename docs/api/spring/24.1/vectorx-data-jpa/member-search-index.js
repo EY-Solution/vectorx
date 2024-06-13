@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"me.vectorx.spring.data.jpa","c":"VxDataJpa","l":"VxDataJpa()","u":"%3Cinit%3E()"}];updateSearchResults();

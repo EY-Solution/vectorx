@@ -1,0 +1,16 @@
+me.vectorx.spring.data.mybatis
+me.vectorx.spring.data.mybatis.config
+me.vectorx.spring.data.mybatis.executor
+me.vectorx.spring.data.mybatis.interceptor
+me.vectorx.spring.data.mybatis.pagination
+me.vectorx.spring.data.mybatis.pagination.dialect
+me.vectorx.spring.data.mybatis.pagination.dialect.replace
+me.vectorx.spring.data.mybatis.pagination.dialect.vendor
+me.vectorx.spring.data.mybatis.pagination.domain
+me.vectorx.spring.data.mybatis.pagination.jackson
+me.vectorx.spring.data.mybatis.pagination.support
+me.vectorx.spring.data.mybatis.properties
+me.vectorx.spring.data.mybatis.provider
+me.vectorx.spring.data.mybatis.proxy
+me.vectorx.spring.data.mybatis.typehandler
+me.vectorx.spring.data.mybatis.utils

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"me.vectorx.spring.mvc.tobe.xplatform","l":"VxWebServletTobeXplatform"}];updateSearchResults();

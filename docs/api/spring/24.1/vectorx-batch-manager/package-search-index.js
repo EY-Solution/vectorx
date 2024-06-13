@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.vectorx.spring.batch.event"},{"l":"me.vectorx.spring.batch.manager"},{"l":"me.vectorx.spring.batch.manager.config"},{"l":"me.vectorx.spring.batch.manager.controller"},{"l":"me.vectorx.spring.batch.manager.service"}];updateSearchResults();

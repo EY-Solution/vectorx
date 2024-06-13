@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"me.vectorx.spring.cloud.core","c":"VxCloudCore","l":"VxCloudCore()","u":"%3Cinit%3E()"}];updateSearchResults();

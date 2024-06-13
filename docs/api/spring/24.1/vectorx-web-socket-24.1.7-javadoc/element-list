@@ -1,0 +1,6 @@
+me.vectorx.spring.web.socket
+me.vectorx.spring.web.socket.client
+me.vectorx.spring.web.socket.config
+me.vectorx.spring.web.socket.handlers
+me.vectorx.spring.web.socket.interceptors
+me.vectorx.spring.web.socket.utils

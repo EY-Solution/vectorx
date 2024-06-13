@@ -1,0 +1,10 @@
+me.vectorx.spring.batch
+me.vectorx.spring.batch.bootstrap
+me.vectorx.spring.batch.common
+me.vectorx.spring.batch.config
+me.vectorx.spring.batch.data.domain.mapper
+me.vectorx.spring.batch.data.mapper.table
+me.vectorx.spring.batch.data.mapper.table.mapping
+me.vectorx.spring.batch.data.mapper.table.model
+me.vectorx.spring.batch.data.repository
+me.vectorx.spring.batch.model

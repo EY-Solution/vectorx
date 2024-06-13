@@ -1,0 +1,13 @@
+me.vectorx.spring.management.bo
+me.vectorx.spring.management.bo.authentication
+me.vectorx.spring.management.bo.authentication.claims
+me.vectorx.spring.management.bo.authentication.controller
+me.vectorx.spring.management.bo.authentication.listener
+me.vectorx.spring.management.bo.authentication.processor
+me.vectorx.spring.management.bo.authentication.request
+me.vectorx.spring.management.bo.authentication.user
+me.vectorx.spring.management.bo.controllers
+me.vectorx.spring.management.bo.data
+me.vectorx.spring.management.bo.logging
+me.vectorx.spring.management.bo.services.rest
+me.vectorx.spring.management.bo.utils

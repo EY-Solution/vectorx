@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.vectorx.spring.web.socket"},{"l":"me.vectorx.spring.web.socket.client"},{"l":"me.vectorx.spring.web.socket.config"},{"l":"me.vectorx.spring.web.socket.handlers"},{"l":"me.vectorx.spring.web.socket.interceptors"},{"l":"me.vectorx.spring.web.socket.utils"}];updateSearchResults();

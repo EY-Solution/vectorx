@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"me.vectorx.spring.cloud.eureka.server","c":"VxCloudEurekaServer","l":"VxCloudEurekaServer()","u":"%3Cinit%3E()"}];updateSearchResults();

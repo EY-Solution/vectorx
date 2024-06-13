@@ -1,0 +1,8 @@
+me.vectorx.spring.batch.logger
+me.vectorx.spring.batch.runner
+me.vectorx.spring.batch.task
+me.vectorx.spring.batch.worker
+me.vectorx.spring.batch.worker.config
+me.vectorx.spring.batch.worker.connector
+me.vectorx.spring.batch.worker.controller
+me.vectorx.spring.batch.worker.service

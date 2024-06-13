@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.vectorx.spring.data.redis"},{"l":"me.vectorx.spring.data.redis.cache"},{"l":"me.vectorx.spring.data.redis.properties"}];updateSearchResults();

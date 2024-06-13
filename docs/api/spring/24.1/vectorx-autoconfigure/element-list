@@ -1,0 +1,15 @@
+me.vectorx.spring.autoconfigure.batch
+me.vectorx.spring.autoconfigure.cloud
+me.vectorx.spring.autoconfigure.core
+me.vectorx.spring.autoconfigure.data
+me.vectorx.spring.autoconfigure.env
+me.vectorx.spring.autoconfigure.management
+me.vectorx.spring.autoconfigure.net
+me.vectorx.spring.autoconfigure.security
+me.vectorx.spring.autoconfigure.security.duplication
+me.vectorx.spring.autoconfigure.security.duplication.polling
+me.vectorx.spring.autoconfigure.security.duplication.redis
+me.vectorx.spring.autoconfigure.security.duplication.websocket
+me.vectorx.spring.autoconfigure.test
+me.vectorx.spring.autoconfigure.web
+me.vectorx.spring.autoconfigure.web.websocket

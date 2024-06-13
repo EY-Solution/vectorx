@@ -1,0 +1,14 @@
+me.vectorx.spring.security.jwt
+me.vectorx.spring.security.jwt.authentication
+me.vectorx.spring.security.jwt.authentication.authentication
+me.vectorx.spring.security.jwt.authentication.claims
+me.vectorx.spring.security.jwt.authentication.decisioner
+me.vectorx.spring.security.jwt.authentication.parser
+me.vectorx.spring.security.jwt.authentication.processor
+me.vectorx.spring.security.jwt.authentication.properties
+me.vectorx.spring.security.jwt.authentication.provider
+me.vectorx.spring.security.jwt.authentication.store
+me.vectorx.spring.security.jwt.config
+me.vectorx.spring.security.jwt.redis
+me.vectorx.spring.security.jwt.utils
+me.vectorx.spring.security.jwt.web

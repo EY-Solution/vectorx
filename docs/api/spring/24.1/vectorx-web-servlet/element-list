@@ -1,0 +1,16 @@
+me.vectorx.spring.mvc
+me.vectorx.spring.mvc.app
+me.vectorx.spring.mvc.converter
+me.vectorx.spring.mvc.data.file
+me.vectorx.spring.mvc.error
+me.vectorx.spring.mvc.filter
+me.vectorx.spring.mvc.filter.conditioner
+me.vectorx.spring.mvc.filter.security
+me.vectorx.spring.mvc.handler.resolver
+me.vectorx.spring.mvc.handler.web
+me.vectorx.spring.mvc.logging.interfaces
+me.vectorx.spring.mvc.process
+me.vectorx.spring.mvc.properties
+me.vectorx.spring.mvc.rest
+me.vectorx.spring.mvc.security
+me.vectorx.spring.mvc.utils
