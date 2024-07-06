@@ -22,4 +22,5 @@ me.vectorx.spring.core.utils.map
 me.vectorx.spring.core.utils.reflection
 me.vectorx.spring.core.utils.spring
 me.vectorx.spring.core.validation
+me.vectorx.spring.core.validation.validators
 me.vectorx.spring.core.vx

@@ -27,4 +27,6 @@ me.vectorx.spring.management.services.listeners.approval
 me.vectorx.spring.management.services.listeners.history
 me.vectorx.spring.management.services.policies
 me.vectorx.spring.management.utils
+me.vectorx.spring.management.validation
+me.vectorx.spring.management.validation.validators
 me.vectorx.spring.management.web
