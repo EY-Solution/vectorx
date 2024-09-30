@@ -2,6 +2,7 @@ me.vectorx.spring.management.bo
 me.vectorx.spring.management.bo.authentication
 me.vectorx.spring.management.bo.authentication.claims
 me.vectorx.spring.management.bo.authentication.controller
+me.vectorx.spring.management.bo.authentication.controller.dto
 me.vectorx.spring.management.bo.authentication.listener
 me.vectorx.spring.management.bo.authentication.processor
 me.vectorx.spring.management.bo.authentication.request
